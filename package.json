@@ -1,7 +1,7 @@
 {
-  "version": "3.0.7",
-  "name": "gatsby-starter-lumen",
-  "description": "A minimal, lightweight and mobile-first starter for creating blazing-fast static blogs",
+  "version": "0.1.0",
+  "name": "oxarxiera-gatsby-blog",
+  "description": "",
   "main": "n/a",
   "scripts": {
     "develop": "yarn clean && gatsby develop",
@@ -19,24 +19,7 @@
   "repository": "https://github.com/alxshelepenok/gatsby-starter-lumen",
   "author": "Alexander Shelepenok <alxshelepenok@gmail.com>",
   "license": "MIT",
-  "keywords": [
-    "gatsby",
-    "graphql",
-    "netlify",
-    "netlify-cms",
-    "pagination",
-    "categories",
-    "tags",
-    "prismjs",
-    "static",
-    "lost",
-    "blog",
-    "minimal",
-    "react",
-    "theme",
-    "starter",
-    "disqus"
-  ],
+  "keywords": [],
   "dependencies": {
     "@sentry/gatsby": "^6.11.0",
     "@sentry/tracing": "^6.11.0",
