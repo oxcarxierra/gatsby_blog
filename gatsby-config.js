@@ -184,11 +184,11 @@ module.exports = {
       options: {
         name: siteConfig.title,
         short_name: siteConfig.title,
-        start_url: '/',
+        start_url: '/pages/about',
         background_color: '#FFF',
-        theme_color: '#F7A046',
+        theme_color: '#000000',
         display: 'standalone',
-        icon: 'static/photo.jpg',
+        icon: 'static/ryan.png',
       },
     },
     {

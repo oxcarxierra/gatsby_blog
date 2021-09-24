@@ -1,33 +1,29 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  pathPrefix: '/',
+  url: 'https://OXcarXierra.github.io/',
+  pathPrefix: '',
   title: 'Blog by Seungseok Oh',
-  subtitle: 'Hello There',
+  subtitle: '오승석',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: '',
   useKatex: false,
   menu: [
-    {
-      label: 'Articles',
-      path: '/',
-    },
     {
       label: 'About me',
       path: '/pages/about',
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts',
+      label: 'Projects',
+      path: '/projects',
     },
   ],
   author: {
     name: 'Seungseok Oh',
     photo: '/ryan.png',
-    bio: 'Hello There',
+    bio: '안녕하세요, 오승석입니다.',
     contacts: {
       email: 'littlestein@snu.ac.kr',
       // telegram: '#',
