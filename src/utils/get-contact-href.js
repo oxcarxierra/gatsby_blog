@@ -1,5 +1,5 @@
 // @flow strict
-const getContactHref = (name: string, contact: string) => {
+const getContactHref = (name, contact) => {
   let href;
 
   switch (name) {
@@ -7,7 +7,7 @@ const getContactHref = (name: string, contact: string) => {
       href = `https://www.twitter.com/${contact}`;
       break;
     case 'github':
-      href = `https://github.com/${contact}`;
+      href = 'https://github.com/OXcarXierra';
       break;
     case 'vkontakte':
       href = `https://vk.com/${contact}`;
@@ -16,13 +16,13 @@ const getContactHref = (name: string, contact: string) => {
       href = `https://t.me/${contact}`;
       break;
     case 'email':
-      href = `mailto:${contact}`;
+      href = 'mailto:littlestein@snu.ac.kr';
       break;
     case 'linkedin':
       href = `https://www.linkedin.com/in/${contact}`;
       break;
     case 'instagram':
-      href = `https://www.instagram.com/${contact}`;
+      href = 'https://www.instagram.com/_oscarsierra_/';
       break;
     case 'line':
       href = `line://ti/p/${contact}`;

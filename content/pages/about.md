@@ -1,7 +1,7 @@
 ---
 title: 'About me'
 template: 'page'
-socialImage: '/media/ryan.jpg'
+socialImage: '/ryan.png'
 ---
 
 ### 안녕하세요, 오승석입니다.

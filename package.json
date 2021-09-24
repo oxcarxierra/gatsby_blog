@@ -4,10 +4,9 @@
   "description": "",
   "main": "n/a",
   "scripts": {
-    "develop": "yarn clean && gatsby develop",
-    "build": "yarn clean && gatsby build",
-    "deploy": "yarn clean && gatsby build --prefix-paths && gh-pages -d public",
-    "clean": "rimraf .cache public",
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "deploy": "gatsby build && gh-pages -d public -b gh-pages",
     "flow": "flow",
     "lint:js": "eslint --cache --ext .js,.jsx .",
     "lint:scss": "stylelint \"src/**/*.scss\"",
@@ -16,7 +15,7 @@
     "test:coverage": "jest --coverage --config ./jest/jest-config.js",
     "test:watch": "jest --watch --config ./jest/jest-config.js"
   },
-  "repository": "https://github.com/alxshelepenok/gatsby-starter-lumen",
+  "repository": "https://github.com/OXcarXierra/OXcarXierra.github.io",
   "author": "Alexander Shelepenok <alxshelepenok@gmail.com>",
   "license": "MIT",
   "keywords": [],
