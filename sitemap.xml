@@ -3,10 +3,11 @@
 <url> <loc>https://OXcarXierra.github.io/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://OXcarXierra.github.io/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://OXcarXierra.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://OXcarXierra.github.io/projects/포스트예시</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://OXcarXierra.github.io/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://OXcarXierra.github.io/tag/태그-1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://OXcarXierra.github.io/tag/태그-2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://OXcarXierra.github.io/category/카테고리-1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://OXcarXierra.github.io/pages/career/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://OXcarXierra.github.io/projects/Gatsby로 홈페이지 만들기</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://OXcarXierra.github.io/tag/gatsby</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://OXcarXierra.github.io/tag/홈페이지</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://OXcarXierra.github.io/category/developer</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://OXcarXierra.github.io/projects</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
