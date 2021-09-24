@@ -19,11 +19,15 @@ module.exports = {
       label: 'Projects',
       path: '/projects',
     },
+    {
+      label: 'Career',
+      path: '/pages/career',
+    },
   ],
   author: {
     name: 'Seungseok Oh',
     photo: '/ryan.png',
-    bio: '안녕하세요, 좋아하는 것을 따라가는 공대생 오승석입니다.',
+    bio: 'Blog of OXcarXierra',
     contacts: {
       email: 'littlestein@snu.ac.kr',
       // telegram: '#',

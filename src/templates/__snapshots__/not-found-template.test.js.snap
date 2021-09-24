@@ -240,7 +240,10 @@ exports[`NotFoundTemplate renders correctly 1`] = `
         className="page__body"
       >
         <p>
-          You just hit a route that doesn't exist... the sadness.
+          404 존재하지 않는 페이지입니다.
+        </p>
+        <p>
+          이곳을 찾아낸 당신은... 혹시 개발자?
         </p>
       </div>
     </div>
