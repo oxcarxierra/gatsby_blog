@@ -14,7 +14,7 @@ exports[`PageTemplate renders correctly 1`] = `
         className="author"
       >
         <a
-          href="/"
+          href="/pages/about"
         >
           <img
             alt="Test name"
@@ -29,7 +29,7 @@ exports[`PageTemplate renders correctly 1`] = `
         >
           <a
             className="author__title-link"
-            href="/"
+            href="/pages/about"
           >
             Test name
           </a>

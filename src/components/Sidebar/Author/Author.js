@@ -7,14 +7,14 @@ type Props = {
   author: {
     name: string,
     bio: string,
-    photo: string
+    photo: string,
   },
-  isIndex: ?boolean
+  isIndex: ?boolean,
 };
 
 const Author = ({ author, isIndex }: Props) => (
   <div className={styles['author']}>
-    <Link to="/">
+    <Link to="/pages/about">
       <img
         src={withPrefix(author.photo)}
         className={styles['author__photo']}
@@ -24,13 +24,17 @@ const Author = ({ author, isIndex }: Props) => (
       />
     </Link>
 
-    { isIndex === true ? (
+    {isIndex === true ? (
       <h1 className={styles['author__title']}>
-        <Link className={styles['author__title-link']} to="/">{author.name}</Link>
+        <Link className={styles['author__title-link']} to="/pages/about">
+          {author.name}
+        </Link>
       </h1>
     ) : (
       <h2 className={styles['author__title']}>
-        <Link className={styles['author__title-link']} to="/">{author.name}</Link>
+        <Link className={styles['author__title-link']} to="/pages/about">
+          {author.name}
+        </Link>
       </h2>
     )}
     <p className={styles['author__subtitle']}>{author.bio}</p>
