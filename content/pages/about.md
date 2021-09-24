@@ -1,5 +1,5 @@
 ---
-title: '소개 / About Me'
+title: 'About Me'
 template: 'page'
 socialImage: '/ryan.png'
 ---
