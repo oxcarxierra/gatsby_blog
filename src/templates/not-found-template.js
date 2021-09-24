@@ -12,7 +12,8 @@ const NotFoundTemplate = () => {
     <Layout title={`Not Found - ${title}`} description={subtitle}>
       <Sidebar />
       <Page title="NOT FOUND">
-        <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
+        <p>404 존재하지 않는 페이지입니다.</p>
+        <p>이곳을 찾아낸 당신은... 혹시 개발자?</p>
       </Page>
     </Layout>
   );
