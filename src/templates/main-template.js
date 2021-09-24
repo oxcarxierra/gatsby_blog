@@ -10,7 +10,7 @@ const MainTemplate = () => {
   const { title, subtitle } = useSiteMetadata();
 
   return (
-    <Layout title={`MainPage - ${title}`} description={subtitle}>
+    <Layout title={`Main - ${title}`} description={subtitle}>
       <Sidebar />
       <Page>
         <Main />

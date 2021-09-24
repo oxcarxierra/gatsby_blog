@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'Seungseok Oh',
-    photo: '/ryan.png',
+    photo: '/profileImage.jpg',
     bio: 'Blog of OXcarXierra',
     contacts: {
       email: 'littlestein@snu.ac.kr',
