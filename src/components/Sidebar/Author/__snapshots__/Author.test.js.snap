@@ -5,7 +5,7 @@ exports[`Author renders correctly 1`] = `
   className="author"
 >
   <a
-    href="/pages/about"
+    href="/"
   >
     <img
       alt="test"
@@ -20,7 +20,7 @@ exports[`Author renders correctly 1`] = `
   >
     <a
       className="author__title-link"
-      href="/pages/about"
+      href="/"
     >
       test
     </a>

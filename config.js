@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://OXcarXierra.github.io/',
   pathPrefix: '',
-  title: 'Blog by Seungseok Oh',
+  title: 'Seungseok Oh',
   subtitle: '오승석',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -12,7 +12,7 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'About me',
+      label: 'About Me',
       path: '/pages/about',
     },
     {
@@ -23,7 +23,7 @@ module.exports = {
   author: {
     name: 'Seungseok Oh',
     photo: '/ryan.png',
-    bio: '안녕하세요, 오승석입니다.',
+    bio: '안녕하세요, 좋아하는 것을 따라가는 공대생 오승석입니다.',
     contacts: {
       email: 'littlestein@snu.ac.kr',
       // telegram: '#',
