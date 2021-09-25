@@ -12,7 +12,7 @@ const MainTemplate = () => {
   return (
     <Layout title={`Main - ${title}`} description={subtitle}>
       <Sidebar />
-      <Page>
+      <Page disableScroll={true}>
         <Main />
       </Page>
     </Layout>

@@ -8,9 +8,9 @@ socialImage: '/ryan.png'
 
 - 과학영재학교 서울과학고등학교 28기 졸업 (2016.3 ~ 2019.2)  
   _Seoul Science High School Class of 2019_
-- 서울대학교 공과대학 기계공학전공 (2019.3~)  
+- 서울대학교 공과대학 기계공학과 주전공 (2019.3~)  
   _Seoul National University, Department of Mechanical Engineering_
-- 서울대학교 항공우주공학과 복수전공 (2021.3~)  
+- 서울대학교 공과대학 항공우주공학과 복수전공 (2021.3~)  
   _Seoul National University, Department of Aerospace Engineering_
 
 ---

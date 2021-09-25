@@ -13,7 +13,7 @@ socialImage: '/ryan.png'
 
 #### 제 4회 2020 서울대학교 X-Corps 최종발표회 특별상
 
-- Autonomous Golf Care Platform 제작
+- Autonomous Golf Cart Platform 제작
 
 #### 대통령과학장학금 물리부문 장학생 선정 (2019.3 ~ )
 
