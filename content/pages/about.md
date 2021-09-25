@@ -31,3 +31,17 @@ socialImage: '/ryan.png'
 - 서울대학교 기계공학부 학생회 집행위원 (2019.11 ~)
 - 대통령과학장학금 물리부문 장학생 (2019.3 ~)
 - 서울과학고등학교 학생회장 (2017.7 ~ 2018.7)
+
+---
+
+### 개발 스택 / Tech Stacks
+
+|                                                                                                     |                                                                                                   |
+| --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> | <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> | <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/> |
+
+</p>
+
+|                                                                                                                            |                                                                                                                        |
+| -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/> | <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/> | <img src="https://img.shields.io/badge/Adobe Xd-FF61F6?style=flat-square&logo=AdobeXD&logoColor=white"/> |
