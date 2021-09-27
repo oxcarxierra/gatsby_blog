@@ -25,7 +25,7 @@ socialImage: '/ryan.png'
 ### 약력 / History
 
 - 프릭스 헬스케어 주식회사 프론트엔드 개발자 (2021.3 ~ )  
-  _Frontend Developer @ Friggs HealthCare, Co., Ltd._
+  _Frontend Developer @ Friggs Healthcare, Co., Ltd._
 - 한국공학한림원 차세대공학리더 (YEHS) (2021.2 ~)
 - 서울대학교 자작 자동차동아리 RunToYou (2019.3 ~ 2021.8)
 - 서울대학교 기계공학부 학생회 집행위원 (2019.11 ~)

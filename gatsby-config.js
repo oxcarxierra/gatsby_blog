@@ -59,15 +59,14 @@ module.exports = {
         `,
         feeds: [
           {
-            serialize: ({ query: { site, allMarkdownRemark } }) =>
-              allMarkdownRemark.edges.map((edge) => ({
-                ...edge.node.frontmatter,
-                description: edge.node.frontmatter.description,
-                date: edge.node.frontmatter.date,
-                url: site.siteMetadata.site_url + edge.node.fields.slug,
-                guid: site.siteMetadata.site_url + edge.node.fields.slug,
-                custom_elements: [{ 'content:encoded': edge.node.html }],
-              })),
+            serialize: ({ query: { site, allMarkdownRemark } }) => allMarkdownRemark.edges.map((edge) => ({
+              ...edge.node.frontmatter,
+              description: edge.node.frontmatter.description,
+              date: edge.node.frontmatter.date,
+              url: site.siteMetadata.site_url + edge.node.fields.slug,
+              guid: site.siteMetadata.site_url + edge.node.fields.slug,
+              custom_elements: [{ 'content:encoded': edge.node.html }],
+            })),
             query: `
               {
                 allMarkdownRemark(
@@ -171,12 +170,11 @@ module.exports = {
           }
         `,
         output: '/sitemap.xml',
-        serialize: ({ site, allSitePage }) =>
-          allSitePage.edges.map((edge) => ({
-            url: site.siteMetadata.siteUrl + edge.node.path,
-            changefreq: 'daily',
-            priority: 0.7,
-          })),
+        serialize: ({ site, allSitePage }) => allSitePage.edges.map((edge) => ({
+          url: site.siteMetadata.siteUrl + edge.node.path,
+          changefreq: 'daily',
+          priority: 0.7,
+        })),
       },
     },
     {
@@ -244,5 +242,25 @@ module.exports = {
     },
     'gatsby-plugin-flow',
     'gatsby-plugin-optimize-svgs',
+    {
+      resolve: 'gatsby-plugin-google-analytics',
+      options: {
+        trackingId: 'G-2MNLERBZWK',
+        head: false,
+        anonymize: true,
+        respectDNT: true,
+        exclude: ['/preview/**', '/do-not-track/me/too/'],
+        // Enables Google Optimize using your container Id
+        // optimizeId: 'YOUR_GOOGLE_OPTIMIZE_TRACKING_ID',
+        // Enables Google Optimize Experiment ID
+        // experimentId: 'YOUR_GOOGLE_EXPERIMENT_ID',
+        // Set Variation ID. 0 for original 1,2,3....
+        // variationId: 'YOUR_GOOGLE_OPTIMIZE_VARIATION_ID',
+        // Any additional create only fields (optional)
+        sampleRate: 5,
+        siteSpeedSampleRate: 10,
+        cookieDomain: 'oxcarxierra.github.io',
+      },
+    },
   ],
 };
