@@ -8,7 +8,7 @@ socialImage: '/ryan.png'
 
 #### 서울대학교 공과대학 제 11회 UCC 공모전 우수상
 
-- RunToYou에서 자동차 하나를 만들기까지의 1년간의 긴 여장을 담아냄
+- RunToYou에서 자동차 하나를 만들기까지의 1년간의 긴 여정을 담아냄
 - <a href="https://www.youtube.com/watch?v=XGgtz434HNs" target="_blank">수상작 "RTY, 1년간의 여정"</a>
 
 #### 제 4회 2020 서울대학교 X-Corps 최종발표회 특별상
