@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Seungseok Oh]]></title><description><![CDATA[오승석]]></description><link>https://OXcarXierra.github.io/</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 05 Oct 2021 09:04:22 GMT</lastBuildDate><item><title><![CDATA[Gatsby로 홈페이지 만들기]]></title><description><![CDATA[어쩌다가 이 블로그를 만들게 되었는가]]></description><link>https://OXcarXierra.github.io//projects/Gatsby로 홈페이지 만들기</link><guid isPermaLink="false">https://OXcarXierra.github.io//projects/Gatsby로 홈페이지 만들기</guid><pubDate>Fri, 24 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;HTML과 CSS, JavaScript만 배웠던 코딩 입문 시절, 하나라도 배웠다는 기쁨에 나만의 웹사이트를 만들어보았다.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Seungseok Oh]]></title><description><![CDATA[오승석]]></description><link>https://OXcarXierra.github.io/</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 08 Oct 2021 15:35:34 GMT</lastBuildDate><item><title><![CDATA[KSAE 대학생자작자동차대회 후기]]></title><description><![CDATA[2019, 2020 KSAE 대학생자작자동차대회에 참가했던 후기를 써보았다.]]></description><link>https://OXcarXierra.github.io//projects/KSAE 대학생자작자동차대회 후기</link><guid isPermaLink="false">https://OXcarXierra.github.io//projects/KSAE 대학생자작자동차대회 후기</guid><pubDate>Thu, 07 Oct 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;서울대학교 자작자동차동아리 RunToYou에서는 매년 자동차를 직접 만들어 한국자동차공학회 주관 대학생자작자동차대회에 출전한다. 나는 2년 반동안 런투유에 몸담으며 2019년도, 2020년도 총 두 번의 대회에 참가했었다. 시간은 많이 지났지만, 완전히 잊어버리기 전에 기록해보려 한다.&lt;/p&gt;
+&lt;h2 id=&quot;2019년도-대회&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2019%EB%85%84%EB%8F%84-%EB%8C%80%ED%9A%8C&quot; aria-label=&quot;2019년도 대회 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2019년도 대회&lt;/h2&gt;
+&lt;p&gt;기계공학과라면 런투유는 꼭 한번은 해봐야한다는 말을 듣고 3월부터 가입하고 활동을 시작했다. 배터리와 모터를 사용하는 전기차(EV)부문, 오토바이 엔진을 이용하는 험지주행(Baja)부문 각각 팀이 있었는데, 당시에는 친한 사람들이 많았던 EV를 선택했다. EV는 사실 동력전달이 간단하다. 충전된 배터리에서 전력을 얻어 모터로 후륜을 구동시키는 방식이다. 다만 프레임, 제동방식, 서스펜션 등은 실제 자동차와 그 뼈대가 비슷하기 때문에 차덕이 아니었던 내가 차에 입문하기에 적합했던 것 같다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gatsby로 홈페이지 만들기]]></title><description><![CDATA[어쩌다가 이 블로그를 만들게 되었는가]]></description><link>https://OXcarXierra.github.io//projects/Gatsby로 홈페이지 만들기</link><guid isPermaLink="false">https://OXcarXierra.github.io//projects/Gatsby로 홈페이지 만들기</guid><pubDate>Fri, 24 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;HTML과 CSS, JavaScript만 배웠던 코딩 입문 시절, 하나라도 배웠다는 기쁨에 나만의 웹사이트를 만들어보았다.
 하지만 모든 구조를 혼자 짜니 코드는 복잡해지고 웹사이트는 지저분해졌다.&lt;/p&gt;
 &lt;p&gt;Gatsby는 js기반 정적 웹사이트 프레임워크로, 다양한 starter template을 제공해서 나만의 웹사이트를 만들기에 적합했다.&lt;/p&gt;
 &lt;p&gt;약간의 코드 수정을 거쳐 메인 페이지와 Project, Career 메뉴를 만들었다.&lt;br&gt;
@@ -92,6 +94,29 @@
 &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;아래처럼 useSelector를 이용, typeScript에서는 useTypedSelector을 사용&lt;/p&gt;</content:encoded></item><item><title><![CDATA[AVDL Internship]]></title><description><![CDATA[회전익 항공기의 Airfoil을 Ansys Fluent 프로그램을 이용하여 해석해보았다]]></description><link>https://OXcarXierra.github.io//projects/AVDL Internship</link><guid isPermaLink="false">https://OXcarXierra.github.io//projects/AVDL Internship</guid><pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;20년 2학기, 유체역학을 수강하고 전산유체 분야가 재미있어 보여서 무작정 서울대학교 항공우주 비행체 설계 연구실(AVDL, 지도교수 이관중 교수님)에 인턴으로 지원하게 되었다. 감사하게도, 겨울방학동안 전산유체역학을 공부하고 CFD 프로그램중 하나인 Ansys Fluent를 박사과정 조교님께 배울 수 있었다.&lt;/p&gt;
 &lt;figure&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/54140034d0f86c77b4ab9567512a463f/eb1d2/Airfoil_Cd_Cl_graph.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 46.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAABYlAAAWJQFJUiTwAAABFElEQVQoz22SCcqFMAyEe/9LeQNvoKCC4L7vSx5ff1L6P95AaTGTySTR3PctXddJnucShqHUdS3gfV/vfu2977sMw2C54zj+4+nbzPMsVVXZEwSBJEnigsdxOPJ1XdI0jRXKskz6vncxCnGA2bZNpmmS8zxlWRZ7A95t2zpROlnXVb5BPoW0M0OiqoPneWwBhPhOAqAQ7SoogFs6BIiSa0hWQXULWZNoDTE4mgwPce0GsIc0TcWoE9r51RIkyABHcPyOABpxHEsURX8Oi6Jw1VgG1kkiVpalXQhuWRhzZUzEKMAydVnkWEEGSju8aYcEboT9mWkcrvL8P8FtmYNDquCWqrwhawxxviGME2aLEW79SxjHBynUutBvZwnCAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source srcset=&quot;/static/54140034d0f86c77b4ab9567512a463f/8ac56/Airfoil_Cd_Cl_graph.webp 240w,
+/static/54140034d0f86c77b4ab9567512a463f/d3be9/Airfoil_Cd_Cl_graph.webp 480w,
+/static/54140034d0f86c77b4ab9567512a463f/e46b2/Airfoil_Cd_Cl_graph.webp 960w,
+/static/54140034d0f86c77b4ab9567512a463f/f992d/Airfoil_Cd_Cl_graph.webp 1440w,
+/static/54140034d0f86c77b4ab9567512a463f/b3a72/Airfoil_Cd_Cl_graph.webp 1622w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/webp&quot;&gt;
+          &lt;source srcset=&quot;/static/54140034d0f86c77b4ab9567512a463f/8ff5a/Airfoil_Cd_Cl_graph.png 240w,
+/static/54140034d0f86c77b4ab9567512a463f/e85cb/Airfoil_Cd_Cl_graph.png 480w,
+/static/54140034d0f86c77b4ab9567512a463f/d9199/Airfoil_Cd_Cl_graph.png 960w,
+/static/54140034d0f86c77b4ab9567512a463f/07a9c/Airfoil_Cd_Cl_graph.png 1440w,
+/static/54140034d0f86c77b4ab9567512a463f/eb1d2/Airfoil_Cd_Cl_graph.png 1622w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/png&quot;&gt;
+          &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/54140034d0f86c77b4ab9567512a463f/d9199/Airfoil_Cd_Cl_graph.png&quot; alt=&quot;Airfoil Cd Cl graph&quot; title=&quot;Airfoil Cd Cl graph&quot; loading=&quot;lazy&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/figure&gt;
+&lt;p&gt;회전익의 경우, 고정익과는 다르게 좌, 우의 블레이드에서 받는 양력이 다르다. 전진하는 블레이드(Advancing blade)는 상대적으로 작은 유속, 후퇴하는 블레이드(retreating blade)는 상대적으로 큰 유속 안에서 양력을 받기 때문이다. 이를 Dissymmetry of lift라고 한다. 이 때문에, 최근의 회전익 항공기들은 블레이드가 tilt운동이 가능하도록 설계하여 회전하면서 받음각(Angle of attack)을 조절한다.&lt;/p&gt;
+&lt;p&gt;따라서 우리는 aoa가 연속적으로 변하는 에어포일을 연구해 볼 필요가 있다. 위 그래프는 aoa가 5도와 25도 사이를 왕복할 떄 받는 Cd와 Cf를 CFD로 계산하여 도시한 것이다. (1) 이 연구를 따라해 보는 작은 목표를 세우고, 전산유체역학을 심도있게 공부하면서 하나씩 따라해봤다.&lt;/p&gt;
+&lt;p&gt;연구실 컴퓨터로 나름 열심히 계산을 돌렸고 결과를 얻었는데 &lt;del&gt;이미지는 왜 이것밖에 안남아있는걸까&lt;/del&gt;&lt;/p&gt;
+&lt;figure&gt;
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;&gt;
       &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/fcf3cfcfc241e63444f30aec4630771a/e8305/NACA0012_aoa19.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 88.75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAASABQDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAAEEAgMF/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQAEBf/aAAwDAQACEAMQAAAB7FC1jz6yluNgUG//xAAbEAEAAgIDAAAAAAAAAAAAAAACAAEDEgQQEf/aAAgBAQABBQJK6j5ZExrYZKvewbgrwd//xAAXEQEAAwAAAAAAAAAAAAAAAAACASAx/9oACAEDAQE/AUJ2n//EABoRAAICAwAAAAAAAAAAAAAAAAECABEDEDH/2gAIAQIBAT8BbJTGyYvN/wD/xAAZEAACAwEAAAAAAAAAAAAAAAAAARARMSD/2gAIAQEABj8CNsTjELj/xAAcEAEAAgIDAQAAAAAAAAAAAAABABEQITFRYXH/2gAIAQEAAT8hZd0Rym7wiMlLGaNEFFs+Sqc4o6x//9oADAMBAAIAAwAAABDXGDz/xAAZEQEAAgMAAAAAAAAAAAAAAAABABARITH/2gAIAQMBAT8QwAMObv8A/8QAGhEBAAEFAAAAAAAAAAAAAAAAAQAQETFRYf/aAAgBAgEBPxDdpgYrl5X/xAAcEAEAAwEAAwEAAAAAAAAAAAABABEhMRBBUYH/2gAIAQEAAT8QrAB7ZakmBfKDR0/ZwSVmI5EBxxqM3HB2UPQhpjvzx//Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
@@ -112,8 +137,11 @@
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;Pressure gradient and streamlines around NACA 0012 airfoil at AoA = 19°&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;ul&gt;
+&lt;ol&gt;
 &lt;li&gt;Pointwise 프로그램을 이용해 NACA 0012 및 그 파생형 Airfoil 주변에 C-grid, O-grid 격자를 생성.&lt;/li&gt;
 &lt;li&gt;Ansys Fluent 프로그램을 이용해 두 종류의 에어포일의 AoA를 바꿔가며 Cl, Cd를 계산.&lt;/li&gt;
-&lt;li&gt;AoA가 15°가 넘어가면 unsteady flow를 가정한 새로운 조건 하에서 CFD가 필요함.&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item></channel></rss>
+&lt;li&gt;aoa-Cl, Cd 그레프를 그려 reference data와 비교.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;실험 결과를 분석해 보았더니, aoa가 13도 아래일때는 거의 일치했지만, aoa가 15°가 넘어가면서 경향성을 벗어나는 결과를 얻었다. 실험을 잘못 한 줄 알았지만, 사실 그 이유는 다른 곳에 있었다. 그 상황에서는 기존의 steady flow를 가정하고 풀던 방법이 아닌, unsteady flow를 가정한 새로운 조건 하에서 다른 방식의 CFD가 필요했던 것이었다. 아쉽게도 그 부분은 진행하지 못했다.&lt;/p&gt;
+&lt;p&gt;상당히 오랜 시간이 지나고 나서 기억을 더듬어 쓸려니까 빠진 부분이 너무 많다. CFD의 다양한 방식도 나름 독학했었늗네 다 까먹어버렸다.. &lt;del&gt;k-w인가 뭐였는데&lt;/del&gt; 앞으로는 바로바로 기록을 해봐야겠다.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(1) Al-Jaburi, Khider, and Daniel Feszty. “Passive flow control of dynamic stall via surface-based trapped vortex generators.” Journal of the American Helicopter Society 63.3 (2018): 1-14.&lt;/em&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
