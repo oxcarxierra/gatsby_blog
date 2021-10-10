@@ -18,7 +18,7 @@ socialImage: '/ryan.png'
     <img src="/media/projects/Airfoil_Cd_Cl_graph.png" />
 </figure>
 
-회전익의 경우, 고정익과는 다르게 좌, 우의 블레이드에서 받는 양력이 다르다. 전진하는 블레이드(Advancing blade)는 상대적으로 작은 유속, 후퇴하는 블레이드(retreating blade)는 상대적으로 큰 유속 안에서 양력을 받기 때문이다. 이를 Dissymmetry of lift라고 한다. 이 때문에, 최근의 회전익 항공기들은 블레이드가 tilt운동이 가능하도록 설계하여 회전하면서 받음각(Angle of attack)을 조절한다.
+회전익의 경우, 고정익과는 다르게 좌, 우의 블레이드의 상황이 다르다. 전진하는 블레이드(advancing blade)는 상대적으로 작은 유속, 후퇴하는 블레이드(retreating blade)는 상대적으로 큰 유속 안에서 양력을 받기 때문이다. 이를 Dissymmetry of lift라고 한다. 이 때문에, 최근의 회전익 항공기들은 블레이드가 tilt운동이 가능하도록 설계하여 회전하면서 받음각(Angle of attack)을 조절한다.
 
 따라서 우리는 aoa가 연속적으로 변하는 에어포일을 연구해 볼 필요가 있다. 위 그래프는 aoa가 5도와 25도 사이를 왕복할 떄 받는 Cd와 Cf를 CFD로 계산하여 도시한 것이다. (1) 이 연구를 따라해 보는 작은 목표를 세우고, 전산유체역학을 심도있게 공부하면서 하나씩 따라해봤다.
 
