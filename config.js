@@ -7,7 +7,7 @@ module.exports = {
   subtitle: '오승석',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 10,
   googleAnalyticsId: '',
   useKatex: false,
   menu: [

@@ -8,9 +8,9 @@ socialImage: '/ryan.png'
 
 - 과학영재학교 서울과학고등학교 28기 졸업 (2016.3 ~ 2019.2)  
   _Seoul Science High School Class of 2019_
-- 서울대학교 공과대학 기계공학과 주전공 (2019.3~)  
+- 서울대학교 공과대학 기계공학부 주전공 (2019.3 ~)  
   _Seoul National University, Department of Mechanical Engineering_
-- 서울대학교 공과대학 항공우주공학과 복수전공 (2021.3~)  
+- 서울대학교 공과대학 항공우주공학과 복수전공 (2021.3 ~)  
   _Seoul National University, Department of Aerospace Engineering_
 
 ---
@@ -24,7 +24,7 @@ socialImage: '/ryan.png'
 
 ### 약력 / History
 
-- 프릭스 헬스케어 주식회사 프론트엔드 개발자 (2021.3 ~ )  
+- 프릭스 헬스케어 유한회사 프론트엔드 개발자 (2021.3 ~ 2021.10)  
   _Frontend Developer @ Friggs Healthcare, Co., Ltd._
 - 한국공학한림원 차세대공학리더 (YEHS) (2021.2 ~)
 - 서울대학교 자작 자동차동아리 RunToYou (2019.3 ~ 2021.8)
