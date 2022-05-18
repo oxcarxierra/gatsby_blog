@@ -17,16 +17,16 @@ module.exports = {
     },
     {
       label: 'Projects',
-      path: '/projects',
+      path: '/category/projects',
     },
     {
       label: 'Thoughts',
-      path: '/thoughts',
+      path: '/category/thoughts',
     },
-    // {
-    //   label: 'Career',
-    //   path: '/pages/career',
-    // },
+    {
+      label: 'OKR',
+      path: '/category/okr',
+    },
   ],
   author: {
     name: 'Seungseok Oh',

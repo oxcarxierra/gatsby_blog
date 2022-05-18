@@ -47,6 +47,7 @@ export const query = graphql`
         date
         description
         tags
+        category
         title
         socialImage {
           publicURL

@@ -1,6 +1,6 @@
 // @flow strict
 import React from 'react';
-import { Link } from 'gatsby';
+import Link from 'gatsby-link';
 import Author from './Author';
 import Comments from './Comments';
 import Content from './Content';
@@ -16,12 +16,15 @@ type Props = {
 const Post = ({ post }: Props) => {
   const { html } = post;
   const { tagSlugs, slug } = post.fields;
-  const { tags, title, date } = post.frontmatter;
+  const { tags, title, date, category } = post.frontmatter;
 
   return (
     <div className={styles['post']}>
-      <Link className={styles['post__home-button']} to="/projects">
-        All Projects
+      <Link
+        className={styles['post__home-button']}
+        to={`/category/${category.toLowerCase()}`}
+      >
+        Go Back
       </Link>
 
       <div className={styles['post__content']}>

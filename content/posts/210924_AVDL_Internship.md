@@ -3,8 +3,8 @@ title: 'AVDL Internship'
 date: '2021-02-24'
 template: 'post'
 draft: false
-slug: 'AVDL Internship'
-category: 'Engineering'
+slug: 'avdl_internship'
+category: 'Projects'
 tags:
   - '전산유체역학'
   - '회전익기'

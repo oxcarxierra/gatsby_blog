@@ -10,9 +10,9 @@ public_folder: '/media'
 # publish_mode: editorial_workflow
 
 collections:
-  - name: 'projects'
+  - name: 'Projects'
     label: 'Projects'
-    folder: 'content/projects'
+    folder: 'content/posts'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     preview_path: 'projects/{{fields.slug}}'

@@ -3,8 +3,8 @@ title: 'KSAE 대학생자작자동차대회 후기'
 date: '2021-10-07'
 template: 'post'
 draft: false
-slug: 'KSAE 대학생자작자동차대회 후기'
-category: 'Engineering'
+slug: 'KSAE_review'
+category: 'Projects'
 tags:
   - 'KSAE'
 description: '2019, 2020 KSAE 대학생자작자동차대회에 참가했던 후기를 써보았다.'
