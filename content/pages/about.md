@@ -17,8 +17,8 @@ socialImage: '/ryan.png'
 
 ### 병역 / Military Service
 
-- 대한민국 육군 KATUSA (2021.12 ~ 2023.6 예정)  
-  _Korean Augmentation To the United States Army, Repulbic of Korea Army_
+- 대한민국 육군 KATUSA (2021.12.27 ~ 2023.6.26)  
+  _Korean Augmentation To the United States Army, Republic of Korea Army_
 
 ---
 
@@ -42,6 +42,5 @@ socialImage: '/ryan.png'
 
 </p>
 
-|                                                                                                                            |                                                                                                                        |
-| -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/> | <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/> | <img src="https://img.shields.io/badge/Adobe Xd-FF61F6?style=flat-square&logo=AdobeXD&logoColor=white"/> |
+|     |     |
+| --- | --- |

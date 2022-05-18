@@ -20,9 +20,13 @@ module.exports = {
       path: '/projects',
     },
     {
-      label: 'Career',
-      path: '/pages/career',
+      label: 'Thoughts',
+      path: '/thoughts',
     },
+    // {
+    //   label: 'Career',
+    //   path: '/pages/career',
+    // },
   ],
   author: {
     name: 'Seungseok Oh',

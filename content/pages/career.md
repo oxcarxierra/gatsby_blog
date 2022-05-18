@@ -9,7 +9,7 @@ socialImage: '/ryan.png'
 #### 프릭스 헬스케어 (2021.3 ~ 2021.10)
 
 - Front-End Developer
-- React Native로 유아 헬스케어 어플리케이션 <닥터아이> 제작 및 유지보수  
+- React Native 기반 유아 헬스케어 어플리케이션 <닥터아이> 제작 및 유지보수  
   <a href="https://apps.apple.com/kr/app/닥터아이-직접-관리하는-우리-아이-건강-성장-발달-육아/id1555848979" target="_blank">앱스토어 다운로드 링크</a>  
   <a href="https://play.google.com/store/apps/details?id=com.friggs.doctoriapp" target="_blank">플레이스토어 다운로드 링크</a>
 - Next.js로 닥터아이 홈페이지 제작 및 유지보수
