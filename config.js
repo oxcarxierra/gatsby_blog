@@ -33,7 +33,7 @@ module.exports = {
     photo: '/profileImage.jpg',
     bio: 'Blog of OXcarXierra',
     contacts: {
-      email: 'littlestein@snu.ac.kr',
+      email: 'oxcarxierra@gmail.com',
       // telegram: '#',
       github: 'https://github.com/OXcarXierra',
       // linkedin: '#',

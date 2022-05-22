@@ -16,7 +16,7 @@ const getContactHref = (name, contact) => {
       href = `https://t.me/${contact}`;
       break;
     case 'email':
-      href = 'mailto:littlestein@snu.ac.kr';
+      href = 'mailto:oxcarxierra@gmail.com';
       break;
     case 'linkedin':
       href = `https://www.linkedin.com/in/${contact}`;
