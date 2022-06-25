@@ -36,7 +36,7 @@ module.exports = {
       email: 'oxcarxierra@gmail.com',
       // telegram: '#',
       github: 'https://github.com/OXcarXierra',
-      // linkedin: '#',
+      linkedin: 'https://linkedin.com/in/oh-seungseok-370746242',
       instagram: 'https://www.instagram.com/_oscarsierra_/',
       // line: '',
       // gitlab: '',

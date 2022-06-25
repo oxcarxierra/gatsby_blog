@@ -19,7 +19,7 @@ const getContactHref = (name, contact) => {
       href = 'mailto:oxcarxierra@gmail.com';
       break;
     case 'linkedin':
-      href = `https://www.linkedin.com/in/${contact}`;
+      href = 'https://linkedin.com/in/oh-seungseok-370746242';
       break;
     case 'instagram':
       href = 'https://www.instagram.com/_oscarsierra_/';
