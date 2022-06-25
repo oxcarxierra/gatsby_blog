@@ -10,7 +10,7 @@ description: 'React Native 라이브러리로 앱을, Django와 MySQL DB 기반�
 socialImage: '/ryan.png'
 ---
 
-캠프 험프리스 내 셔틀버스 시간표 앱이 있으면 좋겠다는 의견이 있었다. 마침 App Store에는 Playstore만큼 좋은 퀄리티의 시간표 앱이 없어서 직접 제작해보기로 했다. 수요는 많이 없겠지만 작년에 열심히 썼던 React Native 응용 + 새로 배운 Django 프레임워크 적용을 연습해보는 목적이었다.
+캠프 험프리스 내 셔틀버스 시간표 앱이 있으면 좋겠다는 의견이 있었다. 마침 App Store에는 Playstore만큼 좋은 퀄리티의 시간표 앱이 없어서 직접 제작해보기로 했다. 수요는 많이 없겠지만 작년에 열심히 썼던 React Native 복습 + 새로 배운 Django 프레임워크 활용을 연습해보는 목적이었다.
 
 ## 1. React Native
 
