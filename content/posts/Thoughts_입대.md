@@ -4,7 +4,8 @@ date: '2022-05-31'
 template: 'post'
 draft: false
 slug: 'military_service'
-category: 'Thoughts'
+category: ''
+#  'Thoughts'
 tags:
 description: ''
 socialImage: '/ryan.png'

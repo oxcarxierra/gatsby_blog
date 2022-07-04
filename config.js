@@ -19,10 +19,10 @@ module.exports = {
       label: 'Projects',
       path: '/category/projects',
     },
-    {
-      label: 'Thoughts',
-      path: '/category/thoughts',
-    },
+    // {
+    //   label: 'Thoughts',
+    //   path: '/category/thoughts',
+    // },
     {
       label: 'OKR',
       path: '/category/okr',

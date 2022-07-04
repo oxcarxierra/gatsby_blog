@@ -4,7 +4,8 @@ date: '2022-05-22'
 template: 'post'
 draft: false
 slug: 'importance_of_recording'
-category: 'Thoughts'
+category: ''
+# 'Thoughts'
 tags:
 description: ''
 socialImage: '/ryan.png'
