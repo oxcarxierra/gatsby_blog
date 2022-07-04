@@ -10,11 +10,13 @@
 <url> <loc>https://OXcarXierra.github.io/posts/KSAE_review</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://OXcarXierra.github.io/posts/making_static_app_with_nextjs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://OXcarXierra.github.io/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://OXcarXierra.github.io/posts/importance_of_recording</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://OXcarXierra.github.io/posts/military_service</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://OXcarXierra.github.io/posts/2022_2Q_OKR</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://OXcarXierra.github.io/posts/may_2022_review</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://OXcarXierra.github.io/posts/usfk_bus_production_review</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://OXcarXierra.github.io/posts/june_2022_review</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://OXcarXierra.github.io/posts/2022_3Q_OKR</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://OXcarXierra.github.io/posts/2022_2Q_OKR</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://OXcarXierra.github.io/posts/importance_of_recording</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://OXcarXierra.github.io/posts/military_service</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://OXcarXierra.github.io/tag/gatsby</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://OXcarXierra.github.io/tag/ksae</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://OXcarXierra.github.io/tag/next-js</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -22,8 +24,9 @@
 <url> <loc>https://OXcarXierra.github.io/tag/전산유체역학</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://OXcarXierra.github.io/tag/홈페이지</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://OXcarXierra.github.io/tag/회전익기</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://OXcarXierra.github.io/category/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://OXcarXierra.github.io/category/okr</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://OXcarXierra.github.io/category/projects</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://OXcarXierra.github.io/category/thoughts</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://OXcarXierra.github.io/projects</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://OXcarXierra.github.io/projects/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
