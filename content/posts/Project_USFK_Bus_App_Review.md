@@ -137,6 +137,12 @@ def insert_data():
 
 ```
 
-## 3. 백엔드 서버 배포 과정
+## 3. Splash screen 적용
 
---- TBA ---
+앱 실행 후 처음 켜지는 화면을 바꿔주는 react-native-splash-screen 라이브러리. 본 프로젝트에 적용했을 때 splash screen이 **검은색 화면**으로 나오는 오류가 있어서, 공식 메뉴얼부터 기술블로그까지 구글링해가며 찾아봤지만 고쳐지지 않았다. 2주간의 삽질 끝에 찾아낸 이유는 splash screen에 들어가는 이미지의 사이즈가 너무 컸던 것.
+
+참고 :  
+https://velog.io/@dody_/React-Native-앱-아이콘-바꾸기  
+https://appicon.co  
+https://ingg.dev/rn-splash/  
+https://stackoverflow.com/questions/63978396/launch-screen-not-working-on-ios-14-with-xcode-12
