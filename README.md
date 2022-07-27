@@ -1,1 +1,3 @@
-<h2>Blog of OXcarXierra</h2>
+Blog of Seungseok Oh (DEPRECATED)
+
+Made with Gatsby
